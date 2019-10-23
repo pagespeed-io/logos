@@ -2,7 +2,7 @@
 
 ## Usage
 
-- See `/svg/ and `/png/` folders for different formats. Prefer `.svg` over `.png`, if possible.
+- See `/svg/` and `/png/` folders for different formats. Prefer `.svg` over `.png`, if possible.
 - `.png` files are compressed (using [TinyPNG](https://tinypng.com/))
 - files are named after the background they should be used on
 
